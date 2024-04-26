@@ -1,7 +1,7 @@
 # Module 19 - Crypto Clustering
 *Unsupervised Machine Learning Challenge - Week 19 - Data Analytics Boot Camp - University of Oregon*
 
-![Crypto Clustering](images/project_banner.jpg)
+![Crypto Clustering](images/project-banner.jpg)
 
 ## Background
 This project uses Python (with KMeans, PCA, and StandardScaler libraries) for unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
