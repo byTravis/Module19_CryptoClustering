@@ -2,7 +2,7 @@
 *Unsupervised Machine Learning Challenge - Week 19 - Data Analytics Boot Camp - University of Oregon*
 
 ## Background
-This project uses Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+This project uses Python (with KMeans, PCA, and StandardScaler libraries) for unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 ## Clustering
 
@@ -17,11 +17,11 @@ This project uses Python and unsupervised learning to predict if cryptocurrencie
 
 ### Optimize Clusters with Principal Component Analysis
 
-PCA Explained Variance Ratio:  0.3719856 , 0.34700813, 0.17603793
+**PCA Explained Variance Ratios:**  0.3719856 , 0.34700813, 0.17603793
 
-**Question:** What is the total explained variance of the three principal components?
+* **Question:** What is the total explained variance of the three principal components?
 
-**Answer:** The total of the 3 principle components makes up approximately 89.4% of the data.
+    * **Answer:** The total of the 3 principle components makes up approximately 89.4% of the data.
 
 ---
 
