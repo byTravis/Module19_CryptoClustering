@@ -25,7 +25,6 @@ This project uses Python (with KMeans, PCA, and StandardScaler libraries) for un
 
     * **Answer:** The total of the 3 principle components makes up approximately 89.4% of the data.
 
----
 
 ![Elbow Curve - PCA](images/elbow_pca_plot.JPG)
 
